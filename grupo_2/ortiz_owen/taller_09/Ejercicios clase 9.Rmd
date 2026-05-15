@@ -174,7 +174,3 @@ eta2
 ```
 1.¿Se rechaza la hipótesis nula? Interpreta el p-valor en contexto.
 No se rechaza H_0, no hay evidencia de que las medianas de nota_final difieran entre programas.
-
-2.Interpreta eta-cuadrado: ¿el efecto es pequeño (< 0.06), mediano (0.06-0.14) o grande (> 0.14)?
-
-3.Si hay diferencias, aplica Dunn con corrección de Bonferroni para identificar qué pares difieren.
